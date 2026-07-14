@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ramialisoa.github.io/sitemap.xml
